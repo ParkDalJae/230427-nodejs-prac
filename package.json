@@ -1,0 +1,21 @@
+{
+  "name": "230427-nodejs-prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParkDalJae/230427-nodejs-prac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParkDalJae/230427-nodejs-prac/issues"
+  },
+  "homepage": "https://github.com/ParkDalJae/230427-nodejs-prac#readme"
+}
